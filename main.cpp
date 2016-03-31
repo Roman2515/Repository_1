@@ -5,6 +5,7 @@
 
 int main()
 {
+    //Commentary
     Massive<char> Mass(5);
     Mass.SetAll();
     Mass.Print();
